@@ -2,8 +2,8 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { z } from "zod";
 
-// API ANAHTARIN (Buraya senin verdiğin anahtarı koydum)
-const API_KEY = "d261324078ee3555debbee1be8b15f0b";
+
+const API_KEY = "YOUR WEATHER API";
 
 const server = new McpServer({
   name: "weather-server",
