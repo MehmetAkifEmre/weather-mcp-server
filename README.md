@@ -3,6 +3,7 @@
 This project is a server providing real-time weather data for Claude Desktop or other LLM tools using the **Model Context Protocol (MCP)**. It is built using the **Bun** runtime and **TypeScript**.
 
 <img width="1841" height="996" alt="image" src="https://github.com/user-attachments/assets/618f1b52-fd16-4162-8533-f18617794b8c" />
+
 <img width="1850" height="992" alt="image" src="https://github.com/user-attachments/assets/e162c0b6-54b4-4a4e-a637-f76caade21e4" />
 
 ## 🚀 Installation
@@ -35,3 +36,5 @@ To test the server using the MCP Inspector:
     Validation: Zod
 
     API: OpenWeatherMap
+Medium
+https://medium.com/@mehmetakifemre/bridging-llms-and-real-time-data-building-a-weather-mcp-server-with-bun-eaf9b366d599
